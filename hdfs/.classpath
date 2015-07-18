@@ -48,5 +48,6 @@
 	<classpathentry kind="lib" path="D:/portable/apache-storm-0.9.4/lib/tools.cli-0.2.4.jar"/>
 	<classpathentry kind="lib" path="D:/portable/apache-storm-0.9.4/lib/tools.logging-0.2.3.jar"/>
 	<classpathentry kind="lib" path="D:/portable/apache-storm-0.9.4/lib/tools.macro-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/portable/zookeeper-3.4.6/zookeeper-3.4.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
