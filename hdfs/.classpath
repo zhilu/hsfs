@@ -49,5 +49,15 @@
 	<classpathentry kind="lib" path="D:/portable/apache-storm-0.9.4/lib/tools.logging-0.2.3.jar"/>
 	<classpathentry kind="lib" path="D:/portable/apache-storm-0.9.4/lib/tools.macro-0.1.0.jar"/>
 	<classpathentry kind="lib" path="D:/portable/zookeeper-3.4.6/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-x-discovery-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-x-discovery-server-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-client-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-examples-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-framework-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-recipes-2.8.0.jar" sourcepath="E:/BYUN/home/codes/alllibs/org/apache/curator/curator-recipes/2.8.0/curator-recipes-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-test-2.8.0.jar" sourcepath="D:/portable/apache-curator-2.8.0-source-release.zip"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/curator-x-rpc-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/BYUN/home/codes/alllibs/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
